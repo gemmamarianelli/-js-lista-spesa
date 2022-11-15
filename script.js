@@ -1,3 +1,5 @@
-for(let i = 0; i < 20; i++){
- let nuovoProdotto = prompt("inserisci prodotto");
+
+for(let i = 0; i < 1; i++){
+    let Prodotti = ["pasta","pane", "carne", "uova", "pesce"];
+ console.log(Prodotti);
 }
